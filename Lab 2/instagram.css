@@ -1,0 +1,128 @@
+.picture {
+  margin-left: 350px;
+  margin-top: 15px;
+}
+
+.Conteiner {
+  background-color: rgb(255, 255, 255);
+  width: 330px;
+  height: 400px;
+  float: right;
+  margin-top: -580px;
+  margin-right: 400px;
+  border: 0.01px solid rgb(0, 0, 0);
+}
+
+.form {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+
+.form input#Login {
+  width: 243px;
+  font-size: 10px;
+  padding: 10px;
+  font-family: Helvetica, sans-serif;
+}
+
+.form input#Password {
+  width: 243px;
+  margin-top: 7px;
+  padding: 10px;
+  font-size: 10px;
+}
+
+button {
+  margin-top: 10px;
+  width: 267px;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: rgb(51, 185, 205);
+  font-weight: bold;
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+#text1 {
+  font-size: small;
+  opacity: 0.5;
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+}
+
+.picture2 {
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+.text3 {
+  color: blue;
+  margin-top: -40px;
+  margin-left: 70px;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+}
+
+#text4 {
+  text-decoration: none;
+  color: rgb(98, 96, 255);
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.text5 {
+  margin-left: 70px;
+  color: rgb(27, 27, 62);
+  font-family: Helvetica, sans-serif;
+}
+
+#ftext5 {
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Helvetica, sans-serif;
+  color: rgb(6, 0, 66);
+}
+
+.insta1 {
+  margin-top: -14px;
+}
+
+.Conteiner2 {
+  width: 330px;
+  height: 60px;
+  background-color: rgb(255, 255, 255);
+  float: right;
+  margin-top: 40px;
+  border: 0.01px solid rgb(0, 0, 0);
+}
+
+.GetTheApp {
+  font-size: 18px;
+  float: left;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+h3 {
+    font-weight: normal;
+    font-size: 17px;
+}
+
+.text6 {
+    margin-left: 50px;
+    color: blue;
+}
+#ftext6 span{
+    text-decoration: 0;
+    color: rgb(0, 38, 255);
+}
+#ftext6 {
+    text-decoration: 0;
+    color:black;
+}
+
+.pictureLast {
+    float: right;
+    width: 200px;
+    height: 50px;
+    margin-right: 70px;
+}
